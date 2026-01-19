@@ -1,0 +1,12 @@
+{
+  "left_images": 2972,
+  "right_images": 2972,
+  "pointclouds": 1578,
+  "sonar_range": 1578,
+  "sonar_intensity": 1578,
+  "imu": 14868,
+  "depth": 14614,
+  "odometry": 7323,
+  "camera_info_left": 1,
+  "camera_info_right": 1
+}
